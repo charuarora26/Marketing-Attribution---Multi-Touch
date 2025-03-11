@@ -4,7 +4,7 @@
 
 📝: Measure the effectiveness of all Marketing Channels
 
-👩‍💻: Use Markov's Chain to identify the Marketing Channle with highest and lowest removal effect
+👩‍💻: Use Markov's Chain to identify the Marketing Channel with highest and lowest removal effect
 
 📊: Divert Marketing $$ towards XXX instead of YYY leading to ZZZ% increase in conversion rate
 
