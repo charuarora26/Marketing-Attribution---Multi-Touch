@@ -14,4 +14,4 @@ Markov's Chain methodology comes is best suited for this business decision since
 1. First touch attribution
 2. Last touch attribution
 
-(Multi-Touch/blob/main/Pic1.png)
+
