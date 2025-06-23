@@ -26,4 +26,10 @@ The python notebook here has the code for the above mentioned three methodolgies
 </p>
 
 
-We can clearly see that 
+We can clearly see that Online Display has the lowest conversion based on First-touch as well as Last-touch Attribution. However, the business wants to see how much the conversion will drop if they were to completely eliminate Online Display. This is arrived at using the Markov's Chain Algorithm. The above visuals show that the contribution of Online Display is about 13% for conversion. However the removal effect will be different. The image below shows a code snippet that calculates the channels with the most and the least impacts. 
+
+<img width="919" alt="Channels by Impact" src="https://github.com/user-attachments/assets/4fbfb37e-e3f0-487f-9b3b-09cdc456a6e6" />
+
+We can clearly see that Facebook has the highest impact (~36%) for conversion and Online Display has the least impact (~16%) for conversion. Therefore, we can assume that if Marketing was to redirect it's budget from Online Display to Facebook, the conversions will likely still increase because Facebook guarantees higher conversion.
+
+
