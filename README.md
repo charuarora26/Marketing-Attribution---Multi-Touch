@@ -33,3 +33,13 @@ We can clearly see that Online Display has the lowest conversion based on First-
 We can clearly see that Facebook has the highest impact (~36%) for conversion and Online Display has the least impact (~16%) for conversion. Therefore, we can assume that if Marketing was to redirect it's budget from Online Display to Facebook, the conversions will likely still increase because Facebook guarantees higher conversion.
 
 
+
+
+
+References
+
+1. [https://github.com/AjNavneet/MultiTouch-Attribution-Marketing-Spend-Optimization/blob/master/lib/Attribution_modelling_and_Budget_Optimization.ipynb](https://github.com/AjNavneet/MultiTouch-Attribution-Marketing-Spend-Optimization/tree/master)
+2. https://medium.com/@aditya2590/multi-channel-attribution-modelling-with-markov-chains-fbf3bdab2ca8
+3. https://medium.com/@xiaotingkuangcu/machine-learning-based-multi-touch-attribution-models-f95e45f7ab0f
+
+
